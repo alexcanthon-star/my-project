@@ -1,4 +1,5 @@
 # my-project
 This is my first git repository
 <br>
-Author: AlexCathon
+Author: AlexCathon demo project
+
